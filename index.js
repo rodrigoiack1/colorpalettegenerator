@@ -1,6 +1,6 @@
 const container = document.querySelector(".container");
 const refresh = document.querySelector(".refresh");
-const maxPaletteBoxes = 5;
+const maxPaletteBoxes = 4;
 
 const generatePalette = () => {
   container.innerHTML = "";
